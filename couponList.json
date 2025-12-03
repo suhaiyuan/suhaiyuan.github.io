@@ -9,8 +9,8 @@
       "textcolor": "#EAF2FF",
       "textbgcolor": "#0085FF",
       "type": "2",
-      "link": "commercialize/pages/taoke-guide/index?scene=87ea2d9d9b0b414bb72611e0f19d7f9cå",
-      "sort": 2 // 排序数值，越小越靠前
+      "link": "commercialize/pages/taoke-guide/index?scene=87ea2d9d9b0b414bb72611e0f19d7f9c",
+      "sort": 2
     },
     {
       "img": "cardelm4",
@@ -45,7 +45,7 @@
       "textbgcolor": "#EEFFE4",
       "type": "2",
       "link": "pages/sharePid/web/index?o2i_sharefrom=wxminiapp&scene=u.ele.me%2FQE6SDUEy",
-      "sort": 1 // 排序第一，最靠前
+      "sort": 1
     },
     {
       "img": "cardelm1",
@@ -97,7 +97,7 @@
     }
   ],
   "textConfig": {
-    "start": 0, // 0：固定fixedText通知，1：随机通知
+    "start": 0,
     "fixedText": "🔥 限时红包加码！满50减20，点击领取立享优惠～",
     "randomTexts": [
       "吃，永远是件幸福的事 胃的饱稳，带来心的安逸。",
