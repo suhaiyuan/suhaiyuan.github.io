@@ -1,0 +1,89 @@
+[
+  {
+    "img": "cardelm2",
+    "title": "饿了么商家红包",
+    "text": "已有9999+人领取过",
+    "maxMoney": "商家小满减包",
+    "background": "linear-gradient(316deg, #FFFFFF 59%, #E3FFFA 100%)",
+    "textcolor": "#EAF2FF",
+    "textbgcolor": "#0085FF",
+    "type": "2",
+    "link": "commercialize/pages/taoke-guide/index?scene=87ea2d9d9b0b414bb72611e0f19d7f9cå"
+  },
+  {
+    "img": "cardelm4",
+    "title": "饿了么8元红包",
+    "text": "已有9999+人领取过",
+    "maxMoney": "最高可领9元",
+    "background": "linear-gradient(316deg, #FFFFFF 59%, #FFE3E3 100%)",
+    "textcolor": "#FF6A6A",
+    "textbgcolor": "#FFEBEB",
+    "type": "2",
+    "link": "ad-bdlm-sub/pages/wh-coupon-guide/index?scene=a23c48d1369a4c3397af0c83d88579f8"
+  },
+  {
+    "img": "cardmt2",
+    "title": "美团商家红包",
+    "text": "已有9999+人领取过",
+    "maxMoney": "商家小满减包",
+    "textcolor": "#FF6A6A",
+    "textbgcolor": "#FFEBEB",
+    "type": "3",
+    "link": "/waimai/pages/web-view/web-view?type=REDIRECT&webviewUrl=https%3A%2F%2Foffsiteact.meituan.com%2Fact%2Fcps%2Fpromotion%3Fp%3D67db70a552574169a8c133da08071b58&utm_content=224ac1afd8674632ae7b85226f192d82__33df8e4ecc1f4696ba2cf32242e44ee4"
+  },
+  {
+    "img": "cardelm3",
+    "title": "饿了么18.8暴涨",
+    "text": "已有9999+人领取过",
+    "maxMoney": "已更新别错过",
+    "background": "linear-gradient(316deg, #FFFFFF 59%, #E3FFFA 100%)",
+    "textcolor": "#7BB50B",
+    "textbgcolor": "#EEFFE4",
+    "type": "2",
+    "link": "pages/sharePid/web/index?o2i_sharefrom=wxminiapp&scene=u.ele.me%2FQE6SDUEy"
+  },
+  {
+    "img": "cardelm1",
+    "title": "淘宝闪购红包",
+    "text": "已有9999+人领取过",
+    "maxMoney": "领最高15元大额红包",
+    "background": "linear-gradient(316deg, #FFFFFF 59%, #F4D6FF 100%)",
+    "textcolor": "#FF6A6A",
+    "textbgcolor": "#FFEBEB",
+    "type": "5",
+    "link": "/index/pages/h5/h5?f_userId=1&f_token=1&s_cps=1&weburl=https%3A%2F%2Fdpurl.cn%2FgFptnjDz"
+  },
+  {
+    "img": "cardmt1",
+    "title": "美团外卖大额红包",
+    "text": "已有9999+人领取过",
+    "maxMoney": "每周三必得18元",
+    "background": "linear-gradient(316deg, #FFFFFF 59%, #F4D6FF 100%)",
+    "textcolor": "#FF6A6A",
+    "textbgcolor": "#FFEBEB",
+    "type": "3",
+    "link": "/index/pages/h5/h5?weburl=https%3A%2F%2Fclick.meituan.com%2Ft%3Ft%3D1%26c%3D2%26p%3DVOT5_L5zT7Zs"
+  },
+  {
+    "img": "jd2",
+    "title": "京东专属红包",
+    "text": "已有9999+人领取过",
+    "maxMoney": "最高可领50元",
+    "background": "linear-gradient(316deg, #FFFFFF 59%, #E3F2FF 100%)",
+    "textcolor": "#EAF2FF",
+    "textbgcolor": "#E1251B",
+    "type": "1",
+    "link": "https://eleme.tuikemima.net/#/pages/tbsgdj/tbsgdj?uid=88660&childId=1001"
+  },
+  {
+    "img": "jd1",
+    "title": "京东专属红包",
+    "text": "已有9999+人领取过",
+    "maxMoney": "最高可领50元",
+    "background": "linear-gradient(316deg, #FFFFFF 59%, #E3F2FF 100%)",
+    "textcolor": "#EAF2FF",
+    "textbgcolor": "#E1251B",
+    "type": "6",
+    "link": "pages/union/proxy/proxy?spreadUrl=https%3A%2F%2Fu.jd.com%2FWOe24Bk"
+  }
+]
