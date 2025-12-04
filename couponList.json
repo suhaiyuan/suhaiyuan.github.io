@@ -43,7 +43,7 @@
       "background": "linear-gradient(316deg, #FFFFFF 59%, #E3FFFA 100%)",
       "textcolor": "#7BB50B",
       "textbgcolor": "#EEFFE4",
-      "type": "1",
+      "type": "5",
       "link": "https://eleme.tuikemima.net/#/pages/tbsg/tbsg?uid=88660&childId=1001",
       "sort": 7
     },
@@ -55,7 +55,7 @@
       "background": "linear-gradient(316deg, #FFFFFF 59%, #F4D6FF 100%)",
       "textcolor": "#FF6A6A",
       "textbgcolor": "#FFEBEB",
-      "type": "1",
+      "type": "5",
       "link": "https://eleme.tuikemima.net/#/pages/tbsgdj/tbsgdj?uid=88660&childId=1001",
       "sort": 6
     },
@@ -121,6 +121,7 @@
     ]
   }
 }
+
 
 
 
