@@ -141,7 +141,7 @@
   "eggConfig": {
     "slideEgg": {
       "triggerCount": 3,
-      "title": "干饭王者✨", // 修复：新增缺失的英文逗号
+      "title": "干饭王者✨",
       "text": "手速快到模糊！干饭没你不行～",
       "animation": "fireworks"
     },
@@ -179,3 +179,4 @@
     "closeText": "关闭"
   }
 }
+
