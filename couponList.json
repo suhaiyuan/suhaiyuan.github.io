@@ -88,7 +88,7 @@
   ],
   "defaultShowSort": 8,
   "textConfig": {
-    "start": 0,
+    "start": 1,
     "fixedText": "🔥红包宝宝加码啦！淘宝闪购 & 京东外卖新成员报到，干饭小达人快冲鸭～",
     "randomTexts": [
       "吃，永远是件幸福的事 胃的饱稳，带来心的安逸。",
@@ -139,5 +139,6 @@
     ]
   }
 }
+
 
 
