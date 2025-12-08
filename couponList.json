@@ -10,7 +10,8 @@
       "textbgcolor": "#FFEBEB",
       "type": "3",
       "link": "/index/pages/h5/h5?weburl=https%3A%2F%2Fclick.meituan.com%2Ft%3Ft%3D1%26c%3D2%26p%3DVOT5_L5zT7Zs",
-      "sort": 10
+      "sort": 10,
+      "showHot": 1
     },
     {
       "img": "cardmt2",
@@ -21,7 +22,8 @@
       "textbgcolor": "#FFEBEB",
       "type": "3",
       "link": "/waimai/pages/web-view/web-view?type=REDIRECT&webviewUrl=https%3A%2F%2Foffsiteact.meituan.com%2Fact%2Fcps%2Fpromotion%3Fp%3D67db70a552574169a8c133da08071b58&utm_content=224ac1afd8674632ae7b85226f192d82__33df8e4ecc1f4696ba2cf32242e44ee4",
-      "sort": 9
+      "sort": 9,
+      "showHot": 0
     },
     {
       "img": "jd1",
@@ -33,7 +35,8 @@
       "textbgcolor": "#E1251B",
       "type": "6",
       "link": "pages/union/proxy/proxy?spreadUrl=https%3A%2F%2Fu.jd.com%2FWOe24Bk",
-      "sort": 8
+      "sort": 8,
+      "showHot": 1
     },
     {
       "img": "cardelm1",
@@ -46,7 +49,8 @@
       "type": "5",
       "link": "https://eleme.tuikemima.net/#/pages/tbsg/tbsg?uid=88660&childId=1001",
       "couponCode": "37 HU7405  666:/《jDysfqOB7m7《十领最高15元红包",
-      "sort": 7
+      "sort": 7,
+      "showHot": 1
     },
     {
       "img": "cardelm2",
@@ -59,7 +63,8 @@
       "type": "5",
       "link": "https://eleme.tuikemima.net/#/pages/tbsgdj/tbsgdj?uid=88660&childId=1001",
       "couponCode": "57 HU7405  1:/aX8kfqOt2VR✔十最高20元，可叠加",
-      "sort": 6
+      "sort": 6,
+      "showHot": 0
     },
     {
       "img": "cardelm3",
@@ -71,7 +76,8 @@
       "textbgcolor": "#0085FF",
       "type": "2",
       "link": "commercialize/pages/taoke-guide/index?scene=87ea2d9d9b0b414bb72611e0f19d7f9c",
-      "sort": 5
+      "sort": 5,
+      "showHot": 1
     },
     {
       "img": "cardelm4",
@@ -83,7 +89,8 @@
       "textbgcolor": "#FFEBEB",
       "type": "2",
       "link": "ad-bdlm-sub/pages/wh-coupon-guide/index?scene=a23c48d1369a4c3397af0c83d88579f8",
-      "sort": 4
+      "sort": 4,
+      "showHot": 0
     }
   ],
   "defaultShowSort": 8,
@@ -139,6 +146,7 @@
     ]
   }
 }
+
 
 
 
